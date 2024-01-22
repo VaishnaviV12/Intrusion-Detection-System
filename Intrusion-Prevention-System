@@ -1,0 +1,61 @@
+INTRUSION PREVENTION SYSTEM
+
+let's break it down in simpler terms:
+
+Imagine your computer network is like a fortress, and you have guards (firewalls) at the entrance checking everyone who comes in. 
+Now, an Intrusion Prevention System (IPS) is like a superhero guard inside your fortress.
+
+1.Detecting and Preventing Trouble:
+   - IPS is not just looking out for trouble; it can actually stop it. If it sees something fishy, it doesn't just raise an alarm; 
+it takes action to block the bad stuff.
+
+2.Always on Guard:
+   - IPS is like a guard that never sleeps. It's always watching your network for any signs of trouble.
+This is different from an Intrusion Detection System (IDS), which is like a security camera – 
+it can see what's happening but can't actively stop anything.
+
+3.Extra Layer of Defense:
+   - Think of your firewalls as the first line of defense at the entrance of your fortress. 
+The IPS is an extra layer of protection inside, ready to tackle any threats that might have slipped past the first line.
+
+4.Inline Superhero:
+   - While an IDS watches from the sidelines, an IPS is right in the middle of the action. 
+It stands between the source (where the threat is coming from) and the destination (your network) and actively checks everything that tries to get in.
+
+5.Quick Decision Maker:
+   - The IPS doesn't waste time. It quickly analyzes the network traffic, and if it sees something bad, 
+it makes decisions on the spot. It's like a superhero making split-second decisions to keep your fortress safe.
+
+In a nutshell, an IPS is like a proactive, always-alert guard inside your network that not only spots trouble but also jumps into action 
+to stop it before it causes harm.
+
+let's break down the classification of IPS and its advantages in simpler terms:
+
+Types of IPS:
+
+1.Host-based IPS:
+   - Think of this like a bodyguard for each computer or device. It watches over individual machines, 
+checking if there's any trouble happening right there on the device.
+
+2.Network-based IPS:
+   - This one is like a superhero guard for the entire network. It stands in the middle of the network, 
+keeping an eye on all the incoming and outgoing traffic to make sure everything is safe.
+
+Advantages of IPS over IDS:
+
+1.Block and Drop Bad Stuff:
+   - IPS doesn't just tell you when there's a problem; it actively stops it. If it sees something harmful, 
+it doesn't just raise an alarm, it blocks and drops the bad packets so they can't cause any harm.
+
+2.Keep an Eye on Your Organization:
+   - Unlike IDS, which might be more like a distant observer, IPS is right there in your organization, monitoring everything. 
+It's like having a security guard patrolling inside your building rather than just watching from outside.
+
+3.Stop Attacks Before They Happen:
+   - IPS doesn't wait for an attack to happen and then react; it's proactive. By controlling the amount of traffic coming in, 
+it can prevent direct attacks from occurring in the first place. It's like locking the doors to your fortress to keep the bad guys out.
+
+In simple terms, IPS is like having personal bodyguards for each device and a superhero guard for your entire network. 
+It actively stops bad things from happening, keeps a close eye on what's going on inside your organization, and takes steps to prevent 
+attacks before they even start.
+
